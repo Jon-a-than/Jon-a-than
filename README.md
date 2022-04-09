@@ -1,24 +1,6 @@
 ### Hi there 👋
-
-<style>
-  .center {
-    display: flex;
-    justify-content: center;
-  }
-  .center img {
-    box-shadow:none !important;
-  }
-  .center a {
-    width: 100%;
-  }
-</style>
-## 个人简介
-<div class="note note-success">
-**职业:** `学生`<br />
-**生辰:**`2002.10.13`<br />
-**GitHub:**`Jon-a-than`<br />
-**e-mail:**`21081715@hdu.edu.cn`
-</div>
+## 个人博客
+[Blog](https://qingshaner.com)
 
 ## GitHub
 
