@@ -1,5 +1,38 @@
 ### Hi there 👋
 
+<style>
+  .center {
+    display: flex;
+    justify-content: center;
+  }
+  .center img {
+    box-shadow:none !important;
+  }
+  .center a {
+    width: 100%;
+  }
+</style>
+## 个人简介
+<div class="note note-success">
+**职业:** `学生`<br />
+**生辰:**`2002.10.13`<br />
+**GitHub:**`Jon-a-than`<br />
+**e-mail:**`21081715@hdu.edu.cn`
+</div>
+
+## GitHub
+
+<div class="center note note-info">
+<img src="https://activity-graph.herokuapp.com/graph?username=Jon-a-than&hide_border=true&point=f00&color=000&line=5cb85c&bg_color=eef7fa00&custom_title=一个月内的提交记录"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jon-a-than&icon_color=5cb85c&custom_title=GitHub%E4%BA%8B%E4%BB%B6%E7%BB%9F%E8%AE%A1&count_private=true&show_icons=true&hide_border=true&bg_color=eef7fa00" style="width:100%"/>
+<img src="https://metrics.lecoq.io/Jon-a-than?template=classic&config.timezone=Asia%2FShanghai" style="background: #00000000;width:100%">
+</div>
+
+## 常用语言
+<div class="note note-warning">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jon-a-than&title_color=d89c46&hide=html,ruby&hide_border=true&langs_count=10&&custom_title=%E6%B4%BB%E8%B7%83%E7%9A%84%E8%AF%AD%E8%A8%80&bg_color=eef7fa00" style="width: 100%;box-shadow:none" />
+</div>
+
 <!--
 **Jon-a-than/Jon-a-than** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
